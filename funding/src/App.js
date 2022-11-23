@@ -117,7 +117,7 @@ function App() {
             Withdraw
           </button>
         </div>
-        <div class="card-footer text-muted">Code Eater</div>
+        <div class="card-footer text-muted">FUNDING (ankit)</div>
       </div>
     </>
   );
